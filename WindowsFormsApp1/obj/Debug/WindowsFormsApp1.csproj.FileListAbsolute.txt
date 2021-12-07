@@ -1,0 +1,13 @@
+C:\Users\kuher\Documents\GEORGIAN\SEM 2 - FALL 2021\COMP 1098 - .NET Programming using C#\FINAL PROJECT VER2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Home.resources
+C:\Users\kuher\Documents\GEORGIAN\SEM 2 - FALL 2021\COMP 1098 - .NET Programming using C#\FINAL PROJECT VER2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\kuher\Documents\GEORGIAN\SEM 2 - FALL 2021\COMP 1098 - .NET Programming using C#\FINAL PROJECT VER2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\kuher\Documents\GEORGIAN\SEM 2 - FALL 2021\COMP 1098 - .NET Programming using C#\FINAL PROJECT VER2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\kuher\Documents\GEORGIAN\SEM 2 - FALL 2021\COMP 1098 - .NET Programming using C#\FINAL PROJECT VER2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\kuher\Documents\GEORGIAN\SEM 2 - FALL 2021\COMP 1098 - .NET Programming using C#\FINAL PROJECT VER2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\kuher\Documents\GEORGIAN\SEM 2 - FALL 2021\COMP 1098 - .NET Programming using C#\FINAL PROJECT VER2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\kuher\Documents\GEORGIAN\SEM 2 - FALL 2021\COMP 1098 - .NET Programming using C#\FINAL PROJECT VER2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\kuher\Documents\GEORGIAN\SEM 2 - FALL 2021\COMP 1098 - .NET Programming using C#\FINAL PROJECT VER2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\kuher\Documents\GEORGIAN\SEM 2 - FALL 2021\COMP 1098 - .NET Programming using C#\FINAL PROJECT VER2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddVehicle.resources
+C:\Users\kuher\Documents\GEORGIAN\SEM 2 - FALL 2021\COMP 1098 - .NET Programming using C#\FINAL PROJECT VER2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HomeView.resources
+C:\Users\kuher\Documents\GEORGIAN\SEM 2 - FALL 2021\COMP 1098 - .NET Programming using C#\FINAL PROJECT VER2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddDealership.resources
+C:\Users\kuher\Documents\GEORGIAN\SEM 2 - FALL 2021\COMP 1098 - .NET Programming using C#\FINAL PROJECT VER2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
